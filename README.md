@@ -5,8 +5,8 @@
 (/Users/macheng/Documents/PUI2017) on nano.
 3. create an alias such that typing pui2017 takes me to that directory.
 
--Screenshoots below:
+-Screenshots below:
 
 
-![Alt text](screenShots/bash.png)
-![Alt text](screenShots/output of pwd.png)
+![Alt text](screenShots/bash.tiff)
+![Alt text](screenShots/output of pwd.tiff)
