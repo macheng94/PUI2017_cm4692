@@ -23,4 +23,9 @@
 - plot it
 
 4. Extra 
+- find the proper CSV that contains time and numerical
+- reduct the dataset and make it renderable
+- modify the time to renderable list in plotting
+- try to plot the modified dataset
+
 
