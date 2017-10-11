@@ -1,6 +1,7 @@
 # HW4
 For Assignment 1,  I did individually.                                        
-For Assignment 2&3&4, I group worked with Yixuan Tang (yt1369) and Te Du(td928).         
+For Assignment 2, group work with yt1369 and hx517.
+for assignment 3&4, I group worked with Yixuan Tang (yt1369) and Te Du(td928).         
 For Assignment 4, Zhiao Zhou(zz1749) helped me in boroughs problem.
 
 ## Outline of what I did
