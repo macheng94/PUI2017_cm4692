@@ -8,3 +8,8 @@ Yes it does.
 c. chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or here, or Statistics i
 
 I would use two sample T-test because it's from different dsample but from the same distribution.
+# FBB I am not sure what that means
+
+
+# FBB Sun, obviously \<netID\> should have been your net ID, sk6167.
+# this is a bit superficial 
