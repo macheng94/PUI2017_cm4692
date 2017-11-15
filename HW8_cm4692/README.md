@@ -1,6 +1,6 @@
 # Homework 8
 
-I plot the tendency of bicycles in Seattles from 2012- 2016.
+I plot the tendency of bicycles trips in Seattles from 2012- 2016.
 
 
 
