@@ -8,6 +8,8 @@ I plot the tendency of bicycles in Seattles from 2012- 2016.
 ![Alt text](cm4692_plot.jpg)
 
 **Figure 1:** Changing of the number of Seattle's bicycle trips ( from west and east sidewalks and sum them up) as time goes from 2013-2015
+
+
 West line shows the number change of the west sidewalk.
 Orange line shows the number change of the east sidewalk.
 Green line shows the total number change tendency.
