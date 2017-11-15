@@ -9,3 +9,6 @@ We choose another dataset from 2016-12 to perfect our conclusion.
 ## Assignment 2
 
 Under construction...
+
+I finish it up now. 
+LOL, American museum of natural history is amazing. :)
