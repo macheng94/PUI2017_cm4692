@@ -1,4 +1,4 @@
-# Homework 8
+# Cheng's Homework 8
 
 I plot the tendency of bicycles trips in Seattles from 2012- 2016.
 
