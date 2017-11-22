@@ -4,10 +4,14 @@ Review by Cheng Ma (cm4692)
 ![Alt text](plot_cz1605.png)
 
 **CLARITY**  
-I could easily see that Te is trying to find the relationship between asthma hospitalization rate and numbers of trips ended in the corresponding zipcode (kind of confusing but interesting as well). However, he created a small figure so a majority of scatter points are overlaying with each other which would be some kind of ambiguous. In addition, he didn't indicate which time periods the data he used was of. At last, a legend would be better added.
+Thanks for the description and red-blue color. It is not hard to get the points Chenrui wants to show. 
+However, there are something to improve for Chenrui in my mind.
+1. The plot needs a title.
+2. The labels should show units to let us know what EUI is. Given that the plot may be showed to some freshman of urban science.
+3. I am wondering if the upper limatation of EUI is 100 units.
  
 **AESTHETHIC**  
-The colors are chosen appropiately which help me to focus on the right elements. However, a bigger size of figure, smaller labels and higher postion of the title would make the plot more beautiful.
+I think the blue points and red line camparable clearly. So we can get the information at the first time. But the color of labels is a little shallow. The size of x-y labels could be larger than it is now.
 
 **HONESTY**  
-He indicates that the plot might show some aspects of the hospitalization discharge rate is not influenced by the taxi trips. However, the discharge rate is a complicated thing that could be affected by various factors regarding either epidemiology or demographics so the influence couldn't be so easily spotted by a simple linear regression. I think a model with controlled variables would be better.
+I think Chenrui honestly get the conclusion from the datasets. We can get some hypothesis that the outliers of EUI may be the cause of lower R^2 from his description below the plot.
