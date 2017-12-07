@@ -15,3 +15,7 @@ I think the blue points and red line camparable clearly. So we can get the infor
 
 **HONESTY**  
 I think Chenrui honestly get the conclusion from the datasets. We can get some hypothesis that the outliers of EUI may be the cause of lower R^2 from his description below the plot.
+
+# FBB good comments
+
+10/10
