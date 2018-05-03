@@ -4,7 +4,7 @@ import json
 
 def createChart(data, zipcode):
     color_expression    = "highlight._vgsid_==datum._vgsid_"
-    color_condition     = alt.ConditionalPredicateValueDef(color_expression, "Teal")
+    color_condition     = alt.ConditionalPredicateValueDef(color_expression, "Salmon")
     highlight_selection = alt.selection_single(name="highlight", empty="all", on="mouseover")
     #rating_selection    = alt.selection_single(name="rating", empty="all", encodings=['y'])
     data = data[data['zipcode']==zipcode].nlargest(20, 'num')
