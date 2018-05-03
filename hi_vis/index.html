@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>NYC Cuisine by Zipcode</title>
+    <title>NYC Restarunts Distribution by Zipcode</title>
     <script src="https://fb.me/react-with-addons-15.1.0.js"></script>
     <script src="https://fb.me/react-dom-15.1.0.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.23/browser.js"></script>
@@ -40,8 +40,8 @@
                 <form onSubmit={this.handleSubmit}>
                     <table>
                         <tr>
-                            <h1 class = "header"><em>NYC Cuisine Distribution Search</em></h1>
-                            <p class = "t1">Zip code:<input type="text" value={this.state.value} onChange={this.handleChange} placeholder="where you want to know?"/></p><input type="submit" value="search" />
+                            <h1 class = "header"><em>NYC Zipcode Restarunts Searcher</em></h1>
+                            <p class = "t1">Zip code:<input type="text" value={this.state.value} onChange={this.handleChange} placeholder="imput the zipcode you want to know"/></p>
                         </tr>
                     </table>
                 </form>
