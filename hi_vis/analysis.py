@@ -29,7 +29,7 @@ def createChart(data, zipcode):
 
 def loadData():
     import urllib.request, json
-    with urllib.request.urlopen("") as url:
+    with urllib.request.urlopen("https://raw.githubusercontent.com/macheng94/PUI2017_cm4692/master/hi_vis/nyc_restaurants_by_cuisine.json") as url:
         cuisines = json.loads(url.read().decode())
 
     tmp_list = []
